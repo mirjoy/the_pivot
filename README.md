@@ -1,12 +1,8 @@
-# Dinner Dash
+# The Pivot
 
-###### Miriam Moser, Austin Wood, Teresa Finn
+###### Miriam Moser, Lori Culberson, Mac McCarthy
 ---
 
-[![Code Climate](https://codeclimate.com/github/indiesquidge/dinner_dash/badges/gpa.svg)](https://codeclimate.com/github/indiesquidge/dinner_dash)
-[![Codeship Status for indiesquidge/dinner_dash](https://codeship.com/projects/6cc90c10-ac3a-0132-3b3f-1e5353d97603/status?branch=master) ](https://codeship.com/projects/68482)
-[![Mood Ring](http://moodring.black/repos/93/badge.svg)](http://moodring.black)
-[![Stories in Ready](https://badge.waffle.io/indiesquidge/dinner_dash.svg?label=ready&title=Ready)](http://waffle.io/indiesquidge/dinner_dash)
+During this three week group project, we took code from the previous Dinner Dash project and kept as much as possible while changing the purpose of the website. We used Rails for both front and back end, with some jQuery for extra fun (and features).
 
-#### Mock Database Schema
-![my image](http://i.imgur.com/k0kbXFJ.png)
+I was responsible for the majority of the front end, sorting by categories dynamically with jQuery, authorization and authentication.
